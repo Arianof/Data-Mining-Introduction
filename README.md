@@ -1,6 +1,6 @@
 # Data Mining on the Adult Income Dataset
 
-This notebook presents a step-by-step introduction to data mining using the **Adult Income** dataset from the **UCI Machine Learning Repository**. It was originally created as a project assignment for the **Artificial Intelligence course** taught by **Prof. Mehdi Ghatee** in the **Faculty of Computer Science at Amirkabir University**.
+This notebook presents a step-by-step introduction to data mining using the **Adult Income** dataset from the **UCI Machine Learning Repository**. It was originally created as a project assignment for the **Artificial Intelligence course** taught by **Prof. Mehdi Ghatee**, under my supervision, in the **Faculty of Computer Science at Amirkabir University**.
 
 ## Notebook Overview
 
